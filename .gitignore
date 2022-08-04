@@ -3,7 +3,7 @@ docs/_build/
 *py[co]
 __pycache__
 /build
-/dist
+# /dist
 .tox
 .coverage
 coverage.xml
